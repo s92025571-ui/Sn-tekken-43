@@ -1,0 +1,6 @@
+{
+  "name": "SN TEKKEN 4",
+  "description": "Realistic 3D animal fighting game with Tekken-style side-view combat, 6-stage campaign, Free Fight mode, custom mobile controls, and offline PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
